@@ -1,6 +1,6 @@
 import React from 'react'
 import { Instagram, Facebook, Twitter, Youtube } from 'lucide-react' 
-import whatsapp from '../assets/whatsapp.png'
+import whatsapp from '../assets/whatsApp.png'
 import Tiktok from '../assets/Tiktok.png'
 
 
